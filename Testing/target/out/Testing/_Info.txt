@@ -1,0 +1,7 @@
+VERSION: "0.1.0",
+GAME_VERSION_MAJOR: 67,
+GAME_VERSION_MINOR: 41,
+NAME: "Testing",
+DESC: "testing",
+AUTHOR: "EmiTheWitch",
+INFO: "Info!",
