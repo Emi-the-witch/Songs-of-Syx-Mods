@@ -1,0 +1,7 @@
+VERSION: "0.1.0",
+GAME_VERSION_MAJOR: 67,
+GAME_VERSION_MINOR: 41,
+NAME: "Production Profit Estimator",
+DESC: "This mod adds elements to the UI to make it easier buy inputs and sell outputs for trade.",
+AUTHOR: "EmiTheWitch and Mialbowy",
+INFO: "Info!",
